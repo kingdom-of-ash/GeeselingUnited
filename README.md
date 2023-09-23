@@ -49,7 +49,7 @@ Our Amateur Goosling try, at building a Website (Which we are very proud of!)
 
 Peek at our Byte Design Submission! 
 
-![Gosling Byte]()
+![Gosling Byte](https://github.com/kingdom-of-ash/GeeselingUnited/blob/b562772d65b75382f664e84af460b5e47577b3df/AD34E213-8732-4031-8B1E-66D50006696F%20-%20instasize.png)
 
 Although we're mostly beginner hackers here, we have our cool (still amateur) profiles if you wanna check us out!
 
