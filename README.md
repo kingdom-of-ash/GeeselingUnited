@@ -1,4 +1,5 @@
-# GeeselingUnited
+# Geeseling's United!! 
+
 [Prototype name: Gosling's Assemble]
 
 A collaboration website that allows all partnered geese, clubs, institutions, etc. to share their resources and inventory and allows people to sign out items from your inventory if they are a part of a shared group.
