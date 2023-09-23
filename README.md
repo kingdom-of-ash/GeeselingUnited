@@ -28,7 +28,7 @@ We tried starting our base HTML/CSS code as well -
 Our Amateur Goosling try, at building a Website (Which we are very proud of!) 
 
 ## But before you get to that, **meet the Goslings!** 
-####(not exactly related to but could be, to Ryan Gosling himself) 
+#### (not exactly related to but could be, to Ryan Gosling himself) 
 
 ![Gosling's Angels](Screen Shot 2023-09-23 at 4.02.28 PM.png)
 
