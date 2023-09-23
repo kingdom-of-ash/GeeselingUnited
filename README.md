@@ -20,7 +20,7 @@ Others could also request to sign out/rent items from your page for a small fee.
 
 
 
-![Image](https://github.com/users/kingdom-of-ash/projects/1/assets/134238681/6d9e0e5b-a1f6-4896-b9b4-47d64430cb80)
+![Geeseling's Unite](https://github.com/users/kingdom-of-ash/projects/1/assets/134238681/6d9e0e5b-a1f6-4896-b9b4-47d64430cb80)
 
 
 We tried starting our base HTML/CSS code as well - 
@@ -30,9 +30,7 @@ Our Amateur Goosling try, at building a Website (Which we are very proud of!)
 ## But before you get to that, **meet the Goslings!** 
 ####(not exactly related to but could be, to Ryan Gosling himself) 
 
-![Image](https://github.com/users/kingdom-of-ash/projects/1/assets/134238681/dcc2e94e-ec20-4ee5-8a83-ccb27928a9bb)
-
-
+![Gosling's Angels](https://github.com/users/kingdom-of-ash/projects/1/assets/134238681/dcc2e94e-ec20-4ee5-8a83-ccb27928a9bb)
 
 ### First up, GOSLING ONE!! 
 
@@ -55,7 +53,7 @@ Although we're mostly beginner hackers here, we have our cool (still amateur) pr
 
 
 
-![Image](https://github.com/users/kingdom-of-ash/projects/1/assets/134238681/46e9598b-0b12-4e4f-a49f-f4088548ca92)
+![Coffee Chat](https://github.com/users/kingdom-of-ash/projects/1/assets/134238681/46e9598b-0b12-4e4f-a49f-f4088548ca92)
 
 [Nikki's LinkedIn](https://www.linkedin.com/in/nikki-rana735/) 
 [ Sofia's LinkedIn ](https://www.linkedin.com/in/sophia-tatlongmaria-19a801274/)
