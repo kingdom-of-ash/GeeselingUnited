@@ -1,24 +1,41 @@
-# Geeseling's United!! 
+# Geeseling's United!
 
-[Prototype name: Gosling's Assemble]
+#### [Prototype name: Gosling's Assemble]
 
-A collaboration website that allows all partnered geese, clubs, institutions, etc. to share their resources and inventory and allows people to sign out items from your inventory if they are a part of a shared group.
-Sustainability: Our project aims to increase the efficiency in used resources 
+A collaboration website that allows all partnered geese, clubs, institutions, etc. to share their resources and inventory and allows people to freely sign out items from your inventory if they are a part of a shared group.
+Others could also request to sign out/rent items from your page for a small fee. 
 
-The Figma depiction of this idea is here 
+## Our idea's features: 
+
+*Sustainability* : Our project aims to increase the efficiency of used resources within an institution. For example, multiple clubs in a university could share resources, or multiple geese in a region could work together or borrow/rent materials for an event.
+
+*Gamification* : We thought we could include rating points (out of 5) for profiles depending on how popular their inventory is amongst others. 
+
+*Social good* : Well, not much to do with social good, but we believe this collaboration-based idea could help with better use of available resources in a more sustainable and social way. We're working together to make this happen! 
+
+*Inclusivity* : We refer to our users as geese, not just because we're big fans, but because we feel like everyone has a little tech goose in them and we want to represent and honour that in the best way we can! 
 
 
-[
-![Image](https://github.com/users/kingdom-of-ash/projects/1/assets/134238681/0dc37c94-09af-4eac-8c92-5df160101bd6)] (https://www.figma.com/file/7IJKzjlA2PGzUoIun9Ob7Q/GEESELINGSUNITED?type=design&node-id=3%3A21&mode=design&t=koCKFkDP8d5FCdGL-1)
+#### The Figma depiction of this idea is [here ](https://www.figma.com/file/7IJKzjlA2PGzUoIun9Ob7Q/GEESELINGSUNITED?type=design&node-id=3%3A21&mode=design&t=koCKFkDP8d5FCdGL-1)
+
+
+
+![Image](https://github.com/users/kingdom-of-ash/projects/1/assets/134238681/6d9e0e5b-a1f6-4896-b9b4-47d64430cb80)
 
 
 We tried starting our base HTML/CSS code as well - 
 
 Our Amateur Goosling try, at building a Website (Which we are very proud of!) 
 
-## But before you get to that, **meet the Goslings!** (not exactly related to but could be, to Ryan Gosling himself) 
+## But before you get to that, **meet the Goslings!** 
+####(not exactly related to but could be, to Ryan Gosling himself) 
+
+![Image](https://github.com/users/kingdom-of-ash/projects/1/assets/134238681/dcc2e94e-ec20-4ee5-8a83-ccb27928a9bb)
+
+
 
 ### First up, GOSLING ONE!! 
+
 
 **1. Nikki Rana** 
 > Hey, my name is Nikki. I'm a senior at Preston High School and I'm interested in engineering! This is my first ever hackathon and I am SO glad I came. I love going for bike rides and hikes, in my spare time I volunteer for my local community centre to teach disadvantaged youth about STEM and help them with their homework. I may not have a clear idea of what I want to do, but I know wherever I go, I'm going to make this world a better place :). Connect with me on Instagram at Nrana._.13 or Nikki Rana on LinkedIn! (Linked below)
@@ -26,9 +43,9 @@ Our Amateur Goosling try, at building a Website (Which we are very proud of!)
 ### Presenting, GOSLING TWO! 
 
 **2. Sophia Tatlongnaria**
-> Hello! My name is Sophia and I am currently a senior at Father Leo J. Austin Catholic Secondary School. I have a strong interest in engineering and am so grateful to be here for my very first hackathon!
+> Hello! My name is Sophia and I am currently a senior at Father Leo J. Austin Catholic Secondary School. I have a strong interest in engineering and am so grateful to be here for my very first hackathon! A little bit about me is that I enjoy listening to music, and watching anime, and my favourite science is physics :P. While here at Technova I am looking forward to learning new things and making new connections with others. 
 
-### Finally, the FINAL GOSLING! 
+### And, the FINAL GOSLING! 
 
 **3. Sanjana Gandhi** 
 > Hi Everyone! My name is Sanjana, the 'mother goose' of this group. I am in my fourth year of Psychology at Waterloo University with limited experience with coding. Although I am super open to learning and meeting people in this field. My goal is to integrate healthcare and nanotechnology and be involved in research fields that combine the two! My dream is to find a career that incorporates nanotechnology, biotechnology, medicine, psychology and coding. Fingers crossed I don't get lost in the sea of knowledge ahead of me. Talk to me about food, dogs and crazy dance moves!! 
