@@ -4,21 +4,22 @@
 
 A collaboration website that allows all partnered geese, clubs, institutions, etc. to share their resources and inventory and allows people to freely sign out items from your inventory if they are a part of a shared group.
 Others could also request to sign out/rent items from your page for a small fee. 
+You 
 
 ## Our idea's features: 
 
-*Sustainability* : Our project aims to increase the efficiency of used resources within an institution. For example, multiple clubs in a university could share resources, or multiple geese in a region could work together or borrow/rent materials for an event.
+*Sustainability*: Our project aims to increase the efficiency of used resources within an institution. For example, multiple clubs in a university could share resources, or multiple geese in a region could work together or borrow/rent materials for an event.
 
-*Gamification* : We thought we could include rating points (out of 5) for profiles depending on how popular their inventory is amongst others. 
+*Gamification*: We thought we could include rating points (out of 5) for profiles depending on how popular their inventory is amongst others. 
 
-*Social good* : Well, not much to do with social good, but we believe this collaboration-based idea could help with better use of available resources in a more sustainable and social way. We're working together to make this happen! 
+*Social good*: Well, not much to do with social good, but we believe this collaboration-based idea could help with better use of available resources in a more sustainable and social way. We're working together to make this happen! 
 
-*Inclusivity* : We refer to our users as geese, not just because we're big fans, but because we feel like everyone has a little tech goose in them and we want to represent and honour that in the best way we can! 
+*Inclusivity*: We refer to our users as geese, not just because we're big fans, but because we feel like everyone has a little tech goose in them and we want to represent and honour that in the best way we can! 
 
 
 #### The Figma depiction of this idea is [here ](https://www.figma.com/file/7IJKzjlA2PGzUoIun9Ob7Q/GEESELINGSUNITED?type=design&node-id=3%3A21&mode=design&t=koCKFkDP8d5FCdGL-1)
-
-
+(remember to click Play!) 
+It's a small attempt at making a UI/UX design for our idea! 
 
 ![Geeseling's Unite](https://github.com/kingdom-of-ash/GeeselingUnited/blob/998e3f52a9934532e95a90eb8d751dd70b69dec6/Your%20paragraph%20text%20(3).png)
 
