@@ -22,7 +22,6 @@ Others could also request to sign out/rent items from your page for a small fee.
 
 ![Geeseling's Unite](https://github.com/kingdom-of-ash/GeeselingUnited/blob/998e3f52a9934532e95a90eb8d751dd70b69dec6/Your%20paragraph%20text%20(3).png)
 
-
 We tried starting our base HTML/CSS code as well - 
 
 Our Amateur Goosling try, at building a Website (Which we are very proud of!) 
