@@ -30,7 +30,7 @@ Our Amateur Goosling try, at building a Website (Which we are very proud of!)
 ## But before you get to that, **meet the Goslings!** 
 ####(not exactly related to but could be, to Ryan Gosling himself) 
 
-![Gosling's Angels](https://github.com/users/kingdom-of-ash/projects/1/assets/134238681/dcc2e94e-ec20-4ee5-8a83-ccb27928a9bb)
+![Gosling's Angels](Screen Shot 2023-09-23 at 4.02.28 PM.png)
 
 ### First up, GOSLING ONE!! 
 
