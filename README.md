@@ -52,7 +52,7 @@ Although we're mostly beginner hackers here, we have our cool (still amateur) pr
 
 
 
-![Coffee Chat](https://github.com/users/kingdom-of-ash/projects/1/assets/134238681/46e9598b-0b12-4e4f-a49f-f4088548ca92)
+![Coffee Chat](https://github.com/kingdom-of-ash/GeeselingUnited/blob/76e3d61df45a20a73cf6c598b5f5a0f9ba598d1a/Your%20paragraph%20text.png)
 
 [Nikki's LinkedIn](https://www.linkedin.com/in/nikki-rana735/) 
 [ Sofia's LinkedIn ](https://www.linkedin.com/in/sophia-tatlongmaria-19a801274/)
