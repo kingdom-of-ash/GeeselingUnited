@@ -20,7 +20,7 @@ Others could also request to sign out/rent items from your page for a small fee.
 
 
 
-![Geeseling's Unite](https://github.com/users/kingdom-of-ash/projects/1/assets/134238681/6d9e0e5b-a1f6-4896-b9b4-47d64430cb80)
+![Geeseling's Unite](https://github.com/kingdom-of-ash/GeeselingUnited/blob/998e3f52a9934532e95a90eb8d751dd70b69dec6/Your%20paragraph%20text%20(3).png)
 
 
 We tried starting our base HTML/CSS code as well - 
