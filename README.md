@@ -30,7 +30,7 @@ Our Amateur Goosling try, at building a Website (Which we are very proud of!)
 ## But before you get to that, **meet the Goslings!** 
 #### (not exactly related to but could be, to Ryan Gosling himself) 
 
-![Gosling's Angels](Screen Shot 2023-09-23 at 4.02.28 PM.png)
+![Gosling's Angels]([Screen Shot 2023-09-23 at 4.02.28 PM.png](https://github.com/kingdom-of-ash/GeeselingUnited/blob/025dd7cb6242d4f345fa0fe8b42a4e3c4213d646/Screen%20Shot%202023-09-23%20at%204.02.28%20PM.png))
 
 ### First up, GOSLING ONE!! 
 
