@@ -47,6 +47,9 @@ Our Amateur Goosling try, at building a Website (Which we are very proud of!)
 **3. Sanjana Gandhi** 
 > Hi Everyone! My name is Sanjana, the 'mother goose' of this group. I am in my fourth year of Psychology at Waterloo University with limited experience with coding. Although I am super open to learning and meeting people in this field. My goal is to integrate healthcare and nanotechnology and be involved in research fields that combine the two! My dream is to find a career that incorporates nanotechnology, biotechnology, medicine, psychology and coding. Fingers crossed I don't get lost in the sea of knowledge ahead of me. Talk to me about food, dogs and crazy dance moves!! 
 
+Peek at our Byte Design Submission! 
+
+![Gosling Byte]()
 
 Although we're mostly beginner hackers here, we have our cool (still amateur) profiles if you wanna check us out!
 
