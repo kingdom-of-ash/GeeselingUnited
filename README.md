@@ -25,6 +25,8 @@ It's a small attempt at making a UI/UX design for our idea!
 
 We tried starting our base HTML/CSS code as well - [Homepage](https://kingdom-of-ash.github.io/GeeselingUnited/Homepage.html)
 
+However, this code is extremely basic and we didn't feel like we had the skills to expand and improve it yet. But hopefully, we will be able to connect our Figma prototype with html code to create a functional website. 
+
 Our Amateur Goosling try, at building a Website (Which we are very proud of!) 
 
 ## But before you get to that, **meet the Goslings!** 
@@ -41,7 +43,7 @@ Our Amateur Goosling try, at building a Website (Which we are very proud of!)
 ### Presenting, GOSLING TWO! 
 
 **2. Sophia Tatlongnaria**
-> Hello! My name is Sophia and I am currently a senior at Father Leo J. Austin Catholic Secondary School. I have a strong interest in engineering and am so grateful to be here for my very first hackathon! A little bit about me is that I enjoy listening to music, and watching anime, and my favourite science is physics :P. While here at Technova I am looking forward to learning new things and making new connections with others. 
+> Hello! My name is Sophia and I am currently a senior at Father Leo J. Austin Catholic Secondary School. I have a strong interest in engineering and am so grateful to be here for my very first hackathon! A little bit about me is that I enjoy listening to music and watching anime, and my favourite science is physics :P. While here at Technova I am looking forward to learning new things and making new connections with others. 
 
 ### And, the FINAL GOSLING! 
 
