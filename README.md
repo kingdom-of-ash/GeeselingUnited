@@ -1,6 +1,7 @@
 # Geeseling's United!
 
 #### [Prototype name: Gosling's Assemble]
+Check out our Repository [here!](https://github.com/kingdom-of-ash/GeeselingUnited.git) 
 
 A collaboration website that allows all partnered geese, clubs, institutions, etc. to share their resources and inventory and allows people to freely sign out items from your inventory if they are a part of a shared group.
 Others could also request to sign out/rent items from your page for a small fee. 
@@ -63,3 +64,10 @@ Although we're mostly beginner hackers here, we have our cool (still amateur) pr
 [Nikki's LinkedIn](https://www.linkedin.com/in/nikki-rana735/) 
 [ Sofia's LinkedIn ](https://www.linkedin.com/in/sophia-tatlongmaria-19a801274/)
 [ Sanjana's LinkedIn ](https://www.linkedin.com/in/sanjana-gandhi-353643289/)
+
+
+Fun BONUS! 
+An end of Hackathon picture with our Bucket Hats 
+
+![Bucket Hat](https://github.com/kingdom-of-ash/GeeselingUnited/blob/7fb83e6663cf03a265182d4fc1a94aa467037240/IMG_3205.HEIC)
+
