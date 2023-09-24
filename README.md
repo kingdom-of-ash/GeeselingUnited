@@ -23,7 +23,7 @@ It's a small attempt at making a UI/UX design for our idea!
 
 ![Geeseling's Unite](https://github.com/kingdom-of-ash/GeeselingUnited/blob/998e3f52a9934532e95a90eb8d751dd70b69dec6/Your%20paragraph%20text%20(3).png)
 
-We tried starting our base HTML/CSS code as well - 
+We tried starting our base HTML/CSS code as well - [Homepage](https://kingdom-of-ash.github.io/GeeselingUnited/Homepage.html)
 
 Our Amateur Goosling try, at building a Website (Which we are very proud of!) 
 
